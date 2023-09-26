@@ -1,0 +1,280 @@
+[
+  {
+    "source": "user should go to greenkart webpage",
+    "steps": [
+      {
+        "name": "user should go to greenkart webpage",
+        "aggregatedDurations": {
+          "median": 0.0020175,
+          "average": 0.002534067
+        },
+        "durations": [
+          {
+            "duration": 0.0038867,
+            "location": "file:src/test/resources/Feature/greenkart.feature:5"
+          },
+          {
+            "duration": 0.001698,
+            "location": "file:src/test/resources/Feature/greenkart.feature:5"
+          },
+          {
+            "duration": 0.0020175,
+            "location": "file:src/test/resources/Feature/greenkart.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user pass the onion on search text box",
+    "steps": [
+      {
+        "name": "user pass the onion on search text box",
+        "aggregatedDurations": {
+          "median": 1.9506183,
+          "average": 1.950618300
+        },
+        "durations": [
+          {
+            "duration": 1.9506183,
+            "location": "file:src/test/resources/Feature/greenkart.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user press the increment btn for kg",
+    "steps": [
+      {
+        "name": "user press the increment btn for kg",
+        "aggregatedDurations": {
+          "median": 3.1215731,
+          "average": 3.121573100
+        },
+        "durations": [
+          {
+            "duration": 3.1215731,
+            "location": "file:src/test/resources/Feature/greenkart.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user click the add to cart bitton",
+    "steps": [
+      {
+        "name": "user click the add to cart bitton",
+        "aggregatedDurations": {
+          "median": 1.1345286,
+          "average": 1.134528600
+        },
+        "durations": [
+          {
+            "duration": 1.1345286,
+            "location": "file:src/test/resources/Feature/greenkart.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "then click add to cart icon",
+    "steps": [
+      {
+        "name": "then click add to cart icon",
+        "aggregatedDurations": {
+          "median": 0.3757136,
+          "average": 0.375713600
+        },
+        "durations": [
+          {
+            "duration": 0.3757136,
+            "location": "file:src/test/resources/Feature/greenkart.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user has to click checkout btn",
+    "steps": [
+      {
+        "name": "user has to click checkout btn",
+        "aggregatedDurations": {
+          "median": 0.1975545,
+          "average": 0.197554500
+        },
+        "durations": [
+          {
+            "duration": 0.1975545,
+            "location": "file:src/test/resources/Feature/greenkart.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user pass coupon code {string} and apply",
+    "steps": [
+      {
+        "name": "user pass coupon code \"1234\" and apply",
+        "aggregatedDurations": {
+          "median": 1.4015462,
+          "average": 1.401546200
+        },
+        "durations": [
+          {
+            "duration": 1.4015462,
+            "location": "file:src/test/resources/Feature/greenkart.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user has to click place btn",
+    "steps": [
+      {
+        "name": "user has to click place btn",
+        "aggregatedDurations": {
+          "median": 0.2782193,
+          "average": 0.278219300
+        },
+        "durations": [
+          {
+            "duration": 0.2782193,
+            "location": "file:src/test/resources/Feature/greenkart.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user click a country for select purpose",
+    "steps": [
+      {
+        "name": "user click a country for select purpose",
+        "aggregatedDurations": {
+          "median": 8.4254492,
+          "average": 8.425449200
+        },
+        "durations": [
+          {
+            "duration": 8.4254492,
+            "location": "file:src/test/resources/Feature/greenkart.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user confirm the btn",
+    "steps": [
+      {
+        "name": "user confirm the btn",
+        "aggregatedDurations": {
+          "median": 0.2108013,
+          "average": 0.210801300
+        },
+        "durations": [
+          {
+            "duration": 0.2108013,
+            "location": "file:src/test/resources/Feature/greenkart.feature:19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user click the proceed btn",
+    "steps": [
+      {
+        "name": "user click the proceed btn",
+        "aggregatedDurations": {
+          "median": 0.1560099,
+          "average": 0.156009900
+        },
+        "durations": [
+          {
+            "duration": 0.1560099,
+            "location": "file:src/test/resources/Feature/greenkart.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user get common veg and price",
+    "steps": [
+      {
+        "name": "user get common veg and price",
+        "aggregatedDurations": {
+          "median": 6.08094,
+          "average": 6.080940000
+        },
+        "durations": [
+          {
+            "duration": 6.08094,
+            "location": "file:src/test/resources/Feature/greenkart.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user get particular veg",
+    "steps": [
+      {
+        "name": "user get particular veg",
+        "aggregatedDurations": {
+          "median": 4.3032757,
+          "average": 4.303275700
+        },
+        "durations": [
+          {
+            "duration": 4.3032757,
+            "location": "file:src/test/resources/Feature/greenkart.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Add all products in list and print in console",
+    "steps": [
+      {
+        "name": "Add all products in list and print in console",
+        "aggregatedDurations": {
+          "median": 3.3223965,
+          "average": 3.322396500
+        },
+        "durations": [
+          {
+            "duration": 3.3223965,
+            "location": "file:src/test/resources/Feature/greenkart.feature:33"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "add all added products in set interface check any duplicate there or not",
+    "steps": [
+      {
+        "name": "add all added products in set interface check any duplicate there or not",
+        "aggregatedDurations": {
+          "median": 2.5338734,
+          "average": 2.533873400
+        },
+        "durations": [
+          {
+            "duration": 2.5338734,
+            "location": "file:src/test/resources/Feature/greenkart.feature:34"
+          }
+        ]
+      }
+    ]
+  }
+]

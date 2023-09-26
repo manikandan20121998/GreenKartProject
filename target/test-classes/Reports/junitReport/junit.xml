@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="80.072364">
+    <testcase classname="To place a order of onion vegetables" name="_2" time="38.744833">
+        <system-out>
+            <![CDATA[Given user should go to greenkart webpage...................................passed
+When user pass the onion on search text box.................................passed
+When user press the increment btn for kg....................................passed
+And user click the add to cart bitton.......................................passed
+And then click add to cart icon.............................................passed
+When user has to click checkout btn.........................................passed
+And user pass coupon code "1234" and apply..................................passed
+And user has to click place btn.............................................passed
+When user click a country for select purpose................................passed
+And user confirm the btn....................................................passed
+Then user click the proceed btn.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To place a order of onion vegetables" name="_3" time="25.546914">
+        <system-out>
+            <![CDATA[Given user should go to greenkart webpage...................................passed
+When user get common veg and price..........................................passed
+And user get particular veg.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To place a order of onion vegetables" name="_4" time="15.780617">
+        <system-out>
+            <![CDATA[Given user should go to greenkart webpage...................................passed
+When Add all products in list and print in console..........................passed
+And add all added products in set interface check any duplicate there or not.passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

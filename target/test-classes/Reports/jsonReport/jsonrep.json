@@ -1,0 +1,382 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3886700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should go to greenkart webpage",
+            "match": {
+              "location": "StepDefinition.user_should_go_to_greenkart_webpage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-11T16:33:19.570Z",
+        "before": [
+          {
+            "result": {
+              "duration": 19892858000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.Before()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "",
+        "description": "To search onion vegtable and place to order",
+        "id": "to-place-a-order-of-onion-vegetables;",
+        "after": [
+          {
+            "result": {
+              "duration": 1220349200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.After(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1950618300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user pass the onion on search text box",
+            "match": {
+              "location": "StepDefinition.user_pass_the_onion_on_search_text_box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3121573100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user press the increment btn for kg",
+            "match": {
+              "location": "StepDefinition.user_press_the_increment_btn_for_kg()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1134528600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user click the add to cart bitton",
+            "match": {
+              "location": "StepDefinition.user_click_the_add_to_cart_bitton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 375713600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "then click add to cart icon",
+            "match": {
+              "location": "StepDefinition.then_click_add_to_cart_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 197554500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user has to click checkout btn",
+            "match": {
+              "location": "StepDefinition.user_has_to_click_checkout_btn()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1401546200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user pass coupon code \"1234\" and apply",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefinition.user_pass_coupon_code_and_apply(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 278219300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user has to click place btn",
+            "match": {
+              "location": "StepDefinition.user_has_to_click_place_btn()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8425449200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user click a country for select purpose",
+            "match": {
+              "location": "StepDefinition.user_click_a_country_for_select_purpose()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 210801300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user confirm the btn",
+            "match": {
+              "location": "StepDefinition.user_confirm_the_btn()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156009900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user click the proceed btn",
+            "match": {
+              "location": "StepDefinition.user_click_the_proceed_btn()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1698000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should go to greenkart webpage",
+            "match": {
+              "location": "StepDefinition.user_should_go_to_greenkart_webpage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-11T16:33:58.346Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14517800200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.Before()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "",
+        "description": "To user set the vegetables and price map wise",
+        "id": "to-place-a-order-of-onion-vegetables;",
+        "after": [
+          {
+            "result": {
+              "duration": 606479600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.After(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6080940000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user get common veg and price",
+            "match": {
+              "location": "StepDefinition.user_get_common_veg_and_price()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4303275700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user get particular veg",
+            "match": {
+              "location": "StepDefinition.user_get_particular_veg()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2017500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should go to greenkart webpage",
+            "match": {
+              "location": "StepDefinition.user_should_go_to_greenkart_webpage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-11T16:34:23.899Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9332914200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.Before()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "",
+        "description": "To validate the duplicate product are there or not",
+        "id": "to-place-a-order-of-onion-vegetables;",
+        "after": [
+          {
+            "result": {
+              "duration": 577716500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.After(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3322396500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Add all products in list and print in console",
+            "match": {
+              "location": "StepDefinition.add_all_products_in_list_and_print_in_console()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2533873400,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "add all added products in set interface check any duplicate there or not",
+            "match": {
+              "location": "StepDefinition.add_all_added_products_in_set_interface_check_any_duplicate_there_or_not()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          },
+          {
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "To place a order of onion vegetables",
+    "description": "",
+    "id": "to-place-a-order-of-onion-vegetables",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Feature/greenkart.feature",
+    "tags": [
+      {
+        "name": "@E2E",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
